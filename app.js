@@ -15,7 +15,7 @@ const AtlasRemote = process.env.ATLAS_URL;
 const sessionSecret = process.env.SESSION_SECRET;
 
 const app = express();
-app.use(express.static(__dirname + "/public"));
+app.use(express.static("public"));
 app.use(
   cors({
     origin: "http://localhost:3000",
@@ -120,7 +120,7 @@ passport.serializeUser(User.serializeUser());
 passport.deserializeUser(User.deserializeUser());
 
 app.get("/", (req, res) => {
-  res.sendFile("/index.html");
+  res.sendFile("index.html");
 });
 
 //ROUTE: /login
