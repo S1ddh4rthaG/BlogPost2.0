@@ -86,19 +86,19 @@ To run this project, you will need to add the following environment variables to
 
 ## Screenshots
 
-![Home]("https://github.com/S1ddh4rthaG/BlogPost2.0/imgs/home.png")
+![Home]("https://github.com/S1ddh4rthaG/BlogPost2.0/blob/master/imgs/home.png?raw=true")
 
-![Login]("https://github.com/S1ddh4rthaG/BlogPost2.0/imgs/login.png")
+![Login]("https://github.com/S1ddh4rthaG/BlogPost2.0/blob/master/imgs/login.png?raw=true")
 
-![Signup]("https://github.com/S1ddh4rthaG/BlogPost2.0/imgs/signup.png")
+![Signup]("https://github.com/S1ddh4rthaG/BlogPost2.0/blob/master/imgs/signup.png?raw=true")
 
-![Blog]("https://github.com/S1ddh4rthaG/BlogPost2.0/imgs/blog.png")
+![Blog]("https://github.com/S1ddh4rthaG/BlogPost2.0/blob/master/imgs/blog.png?raw=true")
 
-![Create Blog]("https://github.com/S1ddh4rthaG/BlogPost2.0/imgs/create_blog.png")
+![Create Blog]("https://github.com/S1ddh4rthaG/BlogPost2.0/blob/master/imgs/create_blog.png?raw=true")
 
-![Edit Blog]("https://github.com/S1ddh4rthaG/BlogPost2.0/imgs/edit_blog.png")
+![Edit Blog]("https://github.com/S1ddh4rthaG/BlogPost2.0/blob/master/imgs/edit_blog.png?raw=true")
 
-![My Blogs]("https://github.com/S1ddh4rthaG/BlogPost2.0/imgs/myblogs.png")
+![My Blogs]("https://github.com/S1ddh4rthaG/BlogPost2.0/blob/master/imgs/myblogs.png?raw=true")
 
 
 ## Related
